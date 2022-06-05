@@ -1,0 +1,14 @@
+.single{
+    display: flex;
+    text-align: center;
+    align-content: center;
+    width: 100px;
+    margin: auto;
+}
+.done{
+    text-decoration: line-through;
+}
+
+.opac{
+    opacity: 20%;
+}
